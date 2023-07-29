@@ -1,0 +1,19 @@
+PS C:\Users\tatsu\OneDrive\デスクトップ\SAMURAI TERAKOYA> cd git_kadai_004
+PS C:\Users\tatsu\OneDrive\デスクトップ\SAMURAI TERAKOYA\git_kadai_004> cd   
+PS C:\Users\tatsu\OneDrive\デスクトップ\SAMURAI TERAKOYA\git_kadai_004> cd kadai_004
+PS C:\Users\tatsu\OneDrive\デスクトップ\SAMURAI TERAKOYA\git_kadai_004\kadai_004> cd git_challenge
+PS C:\Users\tatsu\OneDrive\デスクトップ\SAMURAI TERAKOYA\git_kadai_004\kadai_004\git_challenge> git init
+Initialized empty Git repository in C:/Users/tatsu/OneDrive/デスクトップ/SAMURAI TERAKOYA/git_kadai_004/kadai_004/git_challenge/.git/
+PS C:\Users\tatsu\OneDrive\デスクトップ\SAMURAI TERAKOYA\git_kadai_004\kadai_004\git_challenge> git add Hello_world.txt
+PS C:\Users\tatsu\OneDrive\デスクトップ\SAMURAI TERAKOYA\git_kadai_004\kadai_004\git_challenge> git commit --m "Hello_world.txtを追加"
+[master (root-commit) aa0192d] Hello_world.txtを追加
+ 1 file changed, 1 insertion(+)
+ create mode 100644 Hello_world.txt
+PS C:\Users\tatsu\OneDrive\デスクトップ\SAMURAI TERAKOYA\git_kadai_004\kadai_004\git_challenge> git add Hello_world.txt
+PS C:\Users\tatsu\OneDrive\デスクトップ\SAMURAI TERAKOYA\git_kadai_004\kadai_004\git_challenge> git commit --m "日本語訳を追記"       
+[master f078bf3] 日本語訳を追記
+ 1 file changed, 1 insertion(+)
+PS C:\Users\tatsu\OneDrive\デスクトップ\SAMURAI TERAKOYA\git_kadai_004\kadai_004\git_challenge> git log --oneline
+f078bf3 (HEAD -> master) 日本語訳を追記
+aa0192d Hello_world.txtを追加
+PS C:\Users\tatsu\OneDrive\デスクトップ\SAMURAI TERAKOYA\git_kadai_004\kadai_004\git_challenge> 
